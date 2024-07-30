@@ -1,0 +1,20 @@
+body {
+    height: 200px;
+  }
+  
+canvas {
+    height: 20vh;
+    width: 15vw;
+  }
+
+#popChart{
+    height: 20vh;
+    width: 15vw;
+}
+
+#cy{
+  width: 100vw;
+  height: 200px;
+  display:block;
+  border: 1px solid black;
+}
